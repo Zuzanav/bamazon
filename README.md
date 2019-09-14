@@ -19,7 +19,7 @@ The user will be prompted to select one item of their choosing by typing in the 
 
 ![In Stock](/screenshots/instock.png)
 
-If the item is not in stock, or if the user requested quantity cannot be met, they receive a separate response.
+If the item is not in stock, or if the user requested a quantity that cannot be met, they receive a separate response.
 
 ![Insufficient Quantity](/screenshots/insuf.png)
 
