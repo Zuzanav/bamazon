@@ -5,7 +5,8 @@ This is an application which allows a user to view a full selection of products 
 
 ## How to Run
 Download/clone all the files from this bamazon repository. Have [MySQL](https://dev.mysql.com/downloads/workbench/) installed on your computer. Running the bamazon.sql file on that application will allow you to view the database with the relevant data. Then, open up your terminal/bash window and proceed to navigating to the folder with the cloned git files. Run the following command before proceeding further:
-- npm i
+
+`npm i`
 
 Next, type ' node bamazonCustomer.js ' to open the application. 
 
