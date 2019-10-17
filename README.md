@@ -8,7 +8,7 @@ Download/clone all the files from this bamazon repository. Have [MySQL](https://
 
 `npm i`
 
-Next, type ' node bamazonCustomer.js ' to open the application. 
+Next, type `node bamazonCustomer.js` to open the application. 
 
 
 ## The App
